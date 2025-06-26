@@ -20,6 +20,7 @@ miner-main/
 │   ├── testLib.js          # SHA-1 test lib
 │   └── src/
 │       └── utils.js        # Helper: SHA1, getPool, hashRate calc
+│___ .github/workflows       # mining on github action
 ```
 
 ---
